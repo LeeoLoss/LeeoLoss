@@ -12,9 +12,10 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 
 - **Linguagens:** Python, SQL, Java  
 - **Ferramentas de Dados:** Power BI, Pandas, Jupyter Notebook  
-- **Back-End:** SQL Server, PostgreSQL, Visual Studio Code, PyCharm, Eclipse, IntelliJ
+- **Back-End:** SQL Server, PostgreSQL 
+- **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Google Colab
 - **Versionamento:** Git
-- **Outros:** ETL, Análise Exploratória
+- **Outros:** ETL, Análise Exploratória de Dados
 
 ---
 
