@@ -6,8 +6,6 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 
 ---
 
----
-
 ## 🧰 Tecnologias & Ferramentas
 
 - **Linguagens:** Python, SQL, Java
