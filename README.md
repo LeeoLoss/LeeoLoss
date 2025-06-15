@@ -2,7 +2,7 @@
 👋 Olá! Eu sou o Leonardo Loss
 
 
-Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos voltados para **análise de dados**, **dashboards interativos**, **ETL** e **desenvolvimento**. Aqui você encontrará meus principais projetos que mostram minhas habilidades técnicas e minha evolução contínua.
+Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos voltados para **análise/ciência de dados**, **dashboards interativos**, **ETL** e **desenvolvimento**. Aqui você encontrará meus principais projetos que mostram minhas habilidades técnicas e minha evolução contínua.
 
 ---
 
