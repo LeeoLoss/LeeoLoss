@@ -1,6 +1,4 @@
-
 👋 Olá! Eu sou o Leonardo Loss
-
 
 Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos voltados para **análise/ciência de dados**, **dashboards interativos**, **ETL** e **desenvolvimento**. Aqui você encontrará meus principais projetos que mostram minhas habilidades técnicas e minha evolução contínua.
 
@@ -15,6 +13,12 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 - **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Postman
 - **Versionamento:** Git
 - **Outros:** ETL, Análise Exploratória de Dados
+
+---
+
+## 📊 Estatísticas de uso de linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoloss&layout=compact&langs_count=6&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
