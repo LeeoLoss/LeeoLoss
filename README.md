@@ -9,7 +9,7 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 
 - **Linguagens:** Python, SQL, Java
 - **Bibliotecas:** Pandas, NumPy, Math, Random, Matplotlib
-- **Ferramentas de Dados:** Power BI, Jupyter Notebook, Hadoop, Spark, Google Colab
+- **Ferramentas de Dados:** Power BI, Jupyter Notebook, Hadoop, Apache Spark, Google Colab
 - **Bancos de Dados:** SQL Server, PostgreSQL, NoSQL, MySQL, MongoDB, Neo4J 
 - **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Postman
 - **Versionamento:** Git
