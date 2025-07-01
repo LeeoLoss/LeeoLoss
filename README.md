@@ -9,7 +9,7 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 ## 📌 Em Destaque
 
 - 📊 [Projetos Principais](https://github.com/LeeoLoss/main-projects)  
-  Desenvolvimento de projetos utilizando Python e suas principais bibliotecas.
+  Desenvolvimento de projetos utilizando as linguagens Python e Java e suas principais bibliotecas/ferramentas.
   
 - 🧱 [Pequenos Projetos ou Desafios](https://github.com/LeeoLoss/small-projects-or-challenges)  
   Desenvolvimento back-end com Java e Python aliado à ciência de dados, utilizando recursos das linguagens para análises exploratórias e aplicação de bibliotecas como Pandas e NumPy.
