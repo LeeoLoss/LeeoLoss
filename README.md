@@ -24,7 +24,9 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 Aqui estão alguns projetos concluídos que exemplificam a aplicação prática das minhas habilidades:
 
 - 🎵 [**musicapp (Java)**](https://github.com/LeeoLoss/musicapp): Aplicativo para gerenciamento e reprodução de músicas e podcasts, utilizando conceitos de orientação a objetos como encapsulamento, herança e polimorfismo.
+- 
 - 📊 [**Análise de Dados com Python**](https://github.com/LeeoLoss/python-data-analysis): Projetos focados em análise exploratória e visualização de dados utilizando Pandas, Matplotlib e NumPy.
+- 
 - 📈 [**Dashboards Interativos**](https://github.com/LeeoLoss/powerbi-dashboards): Desenvolvimento de dashboards para visualização dinâmica de dados usando Power BI.
 
 ---
@@ -32,4 +34,22 @@ Aqui estão alguns projetos concluídos que exemplificam a aplicação prática 
 ## 🧰 Tecnologias & Ferramentas
 
 - **Linguagens:** Python, SQL, Java
-- **Bibliote**
+- **Bibliotecas:** Pandas, NumPy, Math, Random, Matplotlib
+- **Ferramentas de Dados:** Power BI, Jupyter Notebook, Hadoop, Apache Spark, Google Colab
+- **Bancos de Dados:** SQL Server, PostgreSQL, NoSQL, MySQL, MongoDB, Neo4J 
+- **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Postman
+- **Versionamento:** Git
+- **Outros:** ETL, Análise Exploratória de Dados
+
+---
+
+## 📫 Contato
+
+Fique à vontade para me chamar:
+
+- [LinkedIn](https://www.linkedin.com/in/leonardoloss/)
+- Email: leonardolossdasilva@gmail.com
+
+---
+
+⭐ Obrigado por visitar! Não esqueça de deixar uma estrela nos projetos que você gostou. Isso me motiva a continuar criando!
