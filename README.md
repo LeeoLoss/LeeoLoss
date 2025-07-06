@@ -24,9 +24,9 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 Aqui estão alguns projetos concluídos que exemplificam a aplicação prática das minhas habilidades:
 
 - 🎵 [**musicapp (Java)**](https://github.com/LeeoLoss/musicapp): Aplicativo para gerenciamento e reprodução de músicas e podcasts, utilizando conceitos de orientação a objetos como encapsulamento, herança e polimorfismo.
-- 
+  
 - 📊 [**Análise de Dados com Python**](https://github.com/LeeoLoss/python-data-analysis): Projetos focados em análise exploratória e visualização de dados utilizando Pandas, Matplotlib e NumPy.
-- 
+  
 - 📈 [**Dashboards Interativos**](https://github.com/LeeoLoss/powerbi-dashboards): Desenvolvimento de dashboards para visualização dinâmica de dados usando Power BI.
 
 ---
