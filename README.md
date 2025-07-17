@@ -23,6 +23,9 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 
 Aqui estão alguns projetos concluídos que exemplificam a aplicação prática das minhas habilidades:
 
+- 🎵 [**cep-search (Java)**](https://github.com/LeeoLoss/cep-search): Aplicação Java que permite a busca de endereços a partir de um CEP, utilizando a API pública [ViaCEP](https://viacep.com.br/). A aplicação consulta os dados do CEP fornecido, exibe o endereço e salva as informações em um arquivo `.json`.
+
+
 - 🎵 [**musicapp (Java)**](https://github.com/LeeoLoss/musicapp): Aplicativo para gerenciamento e reprodução de músicas e podcasts, utilizando conceitos de orientação a objetos como encapsulamento, herança e polimorfismo.
 
 - 💳 [**purchase-manager (Java)**](https://github.com/LeeoLoss/purchase-manager): Projeto em Java para gerenciar compras feitas com cartão de crédito, controlando limite, saldo e histórico de compras.
@@ -36,7 +39,8 @@ Aqui estão alguns projetos concluídos que exemplificam a aplicação prática 
 ## 🧰 Tecnologias & Ferramentas
 
 - **Linguagens:** Python, SQL, Java
-- **Bibliotecas:** Pandas, NumPy, Math, Random, Matplotlib
+- **Bibliotecas (Python):** Pandas, NumPy, Math, Random, Matplotlib
+- **Bibliotecas (Java):** java.net.http, com.google.gson
 - **Ferramentas de Dados:** Power BI, Jupyter Notebook, Hadoop, Apache Spark, Google Colab
 - **Bancos de Dados:** SQL Server, PostgreSQL, NoSQL, MySQL, MongoDB, Neo4J 
 - **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Postman
