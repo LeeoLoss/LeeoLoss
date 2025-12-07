@@ -6,7 +6,7 @@ Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos volt
 
 ---
 
-## 📌 Em Destaque
+## 📌 Desafios e Práticas
 
 - 📊 [Projetos Principais](https://github.com/LeeoLoss/main-projects)  
   Desenvolvimento de projetos utilizando as linguagens Python e Java e suas principais bibliotecas/ferramentas.
@@ -29,6 +29,8 @@ Aqui estão alguns projetos concluídos que exemplificam a aplicação prática 
 - 🎵 [**musicapp (Java)**](https://github.com/LeeoLoss/musicapp): Aplicativo para gerenciamento e reprodução de músicas e podcasts, utilizando conceitos de orientação a objetos como encapsulamento, herança e polimorfismo.
 
 - 💳 [**purchase-manager (Java)**](https://github.com/LeeoLoss/purchase-manager): Projeto em Java para gerenciar compras feitas com cartão de crédito, controlando limite, saldo e histórico de compras.
+
+- 🎧 [**podcast-app (C#)**](https://github.com/LeeoLoss/podcast-app): Podcast em C# que demonstra conceitos básicos de orientação a objetos aplicados na modelagem de um podcast e seus episódios.
 
 - 📊 [**Análise de Dados com Python**](https://github.com/LeeoLoss/python-data-analysis): Projetos focados em análise exploratória e visualização de dados utilizando Pandas, Matplotlib e NumPy.
   
