@@ -21,10 +21,10 @@ I am a Back-end Engineer focused on building robust, scalable, and secure server
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true" alt="Leonardo's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
-</p>
+
+![Leonardo's Stats](https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight)
 
 ---
 
