@@ -2,32 +2,30 @@
 
 # Hi there, I'm Leonardo Loss! 👋
 
-### .NET Architecture Student | Back-end Developer (C#, Java) | Azure & SQL Specialist
+# Hi there, I'm Leonardo Loss! 👋
 
-I'm a developer passionate about building scalable back-end systems and data-driven solutions. Currently, I'm deep-diving into **.NET 10** and **Cloud Infrastructure**.
+### Back-end Developer | .NET & Java Specialist | Cloud Infrastructure
+
+I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the **Microsoft ecosystem (.NET 10)** and **Java (Spring Boot)**, with a strong background in SQL and Cloud environments.
 
 ---
 
-### 🚀 Featured Projects (.NET & Backend)
-- 💳 **[Finance Manager API](https://github.com/LeeoLoss/finance-manager-dotnet)**: Personal finance management built with .NET 10, Entity Framework, Identity (JWT), and Azure SQL.
-- ✅ **[Task Manager](https://github.com/LeeoLoss/task-manager-dotnet)**: Task management system focusing on Clean Architecture and RESTful best practices.
-
-### 📊 Data & Analytics
-- **Data Science:** Exploration and analysis using Python (Pandas, NumPy) and Java.
-- **Business Intelligence:** Interactive dashboards and key indicator tracking with Power BI.
+### 🚀 Featured Back-end Projects
+- 💳 **[Finance Manager API](https://github.com/LeeoLoss/finance-manager-dotnet)**: High-performance API built with **.NET 10**, Entity Framework, Identity (JWT), and Azure/AWS integration.
+- ✅ **[Task Manager](https://github.com/LeeoLoss/task-manager-dotnet)**: Task management system focusing on Clean Architecture, RESTful patterns, and Java/Spring Boot practices.
 
 ### 🛠 Tech Stack
-- **Languages:** C#, Java & SQL
-- **Frameworks:** ASP.NET Core (.NET 10), EF Core, Spring Boot
-- **Cloud & DB:** Azure, AWS (RDS), SQL Server, PostgreSQL
-- **Frontend/BI:** Power BI, basic JavaScript
+- **Primary Languages:** C# (.NET 10), Java (Spring Boot), SQL
+- **Cloud & Databases:** Azure, AWS (RDS), SQL Server, PostgreSQL
+- **Architecture:** Clean Architecture, REST APIs, JWT Auth, EF Core
+- **Secondary Skills:** Data Science (Python/Pandas), Power BI, Docker
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Leonardo's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true" alt="Leonardo's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 ---
