@@ -12,19 +12,27 @@ I am a Back-end Engineer focused on building robust, scalable, and secure server
 - 💳 **[Finance Manager API](https://github.com/LeeoLoss/finance-manager-dotnet)**: High-performance API built with **.NET 10**, Entity Framework, Identity (JWT), and Azure/AWS integration.
 - ✅ **[Task Manager](https://github.com/LeeoLoss/task-manager-dotnet)**: Task management system focusing on Clean Architecture, RESTful patterns, and Java/Spring Boot practices.
 
-### 🛠 Tech Stack
-- **Primary Languages:** C# (.NET 10), Java (Spring Boot), SQL
-- **Cloud & Databases:** Azure, AWS (RDS), SQL Server, PostgreSQL
-- **Architecture:** Clean Architecture, REST APIs, JWT Auth, EF Core
-- **Secondary Skills:** Data Science (Python/Pandas), Power BI, Docker
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/dotnet-%23512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity & Profile
+Acompanhe minhas contribuições e projetos ativos diretamente no meu repositório.
 
-![Leonardo's Stats](https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight)
+[![](https://img.shields.io/badge/Check%20my%20Repos-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/LeeoLoss?tab=repositories)
 
 ---
 
