@@ -29,6 +29,13 @@ I am a Back-end Engineer focused on building robust, scalable, and secure server
 
 ---
 
+### 📊 Language Ranking
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 📈 Activity & Profile
 Acompanhe minhas contribuições e projetos ativos diretamente no meu repositório.
 
