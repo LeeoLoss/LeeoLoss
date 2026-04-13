@@ -1,63 +1,37 @@
 ![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
 
-👋 Olá! Eu sou o Leonardo Loss
+# Hi there, I'm Leonardo Loss! 👋
 
-Sou um entusiasta de **Dados** e **Desenvolvimento Back-End**, com projetos voltados para **análise/ciência de dados**, **dashboards interativos** e **desenvolvimento back-end**. Aqui você encontrará meus principais projetos que mostram minhas habilidades técnicas e minha evolução contínua.
+### .NET Architecture Student | Back-end Developer (C#, Java) | Azure & SQL Specialist
 
----
-
-## 📌 Desafios e Práticas
-
-- 📊 [Projetos Principais](https://github.com/LeeoLoss/main-projects)  
-  Desenvolvimento de projetos utilizando as linguagens Python e Java e suas principais bibliotecas/ferramentas.
-  
-- 🧱 [Pequenos Projetos ou Desafios](https://github.com/LeeoLoss/small-projects-or-challenges)  
-  Desenvolvimento back-end com C#, Java e Python aliado à ciência de dados, utilizando recursos das linguagens para análises exploratórias e aplicação de bibliotecas como Pandas e NumPy.
-  
-- 📈 [Power BI](https://github.com/LeeoLoss/power-bi-projects)  
-  Painel com indicadores-chave e segmentações para tomada de decisão baseada em dados.
+I'm a developer passionate about building scalable back-end systems and data-driven solutions. Currently, I'm deep-diving into **.NET 10** and **Cloud Infrastructure**.
 
 ---
 
-## ✅ Projetos Prontos
+### 🚀 Featured Projects (.NET & Backend)
+- 💳 **[Finance Manager API](https://github.com/LeeoLoss/finance-manager-dotnet)**: Personal finance management built with .NET 10, Entity Framework, Identity (JWT), and Azure SQL.
+- ✅ **[Task Manager](https://github.com/LeeoLoss/task-manager-dotnet)**: Task management system focusing on Clean Architecture and RESTful best practices.
 
-Aqui estão alguns projetos concluídos que exemplificam a aplicação prática das minhas habilidades:
+### 📊 Data & Analytics
+- **Data Science:** Exploration and analysis using Python (Pandas, NumPy) and Java.
+- **Business Intelligence:** Interactive dashboards and key indicator tracking with Power BI.
 
-- 🎵 [**cep-search (Java)**](https://github.com/LeeoLoss/cep-search): Aplicação Java que permite a busca de endereços a partir de um CEP, utilizando a API pública [ViaCEP](https://viacep.com.br/). A aplicação consulta os dados do CEP fornecido, exibe o endereço e salva as informações em um arquivo `.json`.
-
-
-- 🎵 [**musicapp (Java)**](https://github.com/LeeoLoss/musicapp): Aplicativo para gerenciamento e reprodução de músicas e podcasts, utilizando conceitos de orientação a objetos como encapsulamento, herança e polimorfismo.
-
-- 💳 [**purchase-manager (Java)**](https://github.com/LeeoLoss/purchase-manager): Projeto em Java para gerenciar compras feitas com cartão de crédito, controlando limite, saldo e histórico de compras.
-
-- 🎧 [**podcast-app (C#)**](https://github.com/LeeoLoss/podcast-app): Podcast em C# que demonstra conceitos básicos de orientação a objetos aplicados na modelagem de um podcast e seus episódios.
-
-- 📊 [**Análise de Dados com Python**](https://github.com/LeeoLoss/python-data-analysis): Projetos focados em análise exploratória e visualização de dados utilizando Pandas, Matplotlib e NumPy.
-  
-- 📈 [**Dashboards Interativos**](https://github.com/LeeoLoss/powerbi-dashboards): Desenvolvimento de dashboards para visualização dinâmica de dados usando Power BI.
+### 🛠 Tech Stack
+- **Languages:** C#, Java & SQL
+- **Frameworks:** ASP.NET Core (.NET 10), EF Core, Spring Boot
+- **Cloud & DB:** Azure, AWS (RDS), SQL Server, PostgreSQL
+- **Frontend/BI:** Power BI, basic JavaScript
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
-
-- **Linguagens:** Python, SQL, Java
-- **Bibliotecas (Python):** Pandas, NumPy, Math, Random, Matplotlib
-- **Bibliotecas (Java):** java.net.http, com.google.gson
-- **Ferramentas de Dados:** Power BI, Jupyter Notebook, Hadoop, Apache Spark, Google Colab
-- **Bancos de Dados:** SQL Server, PostgreSQL, NoSQL, MySQL, MongoDB, Neo4J 
-- **Ambientes de Desenvolvimento:** Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, Postman
-- **Versionamento:** Git
-- **Outros:** ETL, Análise Exploratória de Dados
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Leonardo's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-## 📫 Contato
-
-Fique à vontade para me chamar:
-
-- [LinkedIn](https://www.linkedin.com/in/leonardoloss/)
-- Email: leonardolossdasilva@gmail.com
-
----
-
-⭐ Obrigado por visitar! Não esqueça de deixar uma estrela nos projetos que você gostou. Isso me motiva a continuar criando!
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoloss/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardolossdasilva@gmail.com)
