@@ -2,8 +2,6 @@
 
 # Hi there, I'm Leonardo Loss! 👋
 
-# Hi there, I'm Leonardo Loss! 👋
-
 ### Back-end Developer | .NET & Java Specialist | Cloud Infrastructure
 
 I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the **Microsoft ecosystem (.NET 10)** and **Java (Spring Boot)**, with a strong background in SQL and Cloud environments.
