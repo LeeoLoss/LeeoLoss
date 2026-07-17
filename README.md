@@ -22,18 +22,25 @@
     <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=0e75b6" alt="C#" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=0e75b6" alt="SQL Server" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=0e75b6" alt="Java" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/>
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=0e75b6" alt="AWS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=VLK0skbHwZbc&format=png&color=0e75b6" alt="Azure" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=0e75b6" alt="Docker" width="40" height="40"/>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Leonardo's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
