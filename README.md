@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=0e75b6" alt="SQL Server" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=0e75b6" alt="Java" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=0e75b6" alt="AWS" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=48152&format=png&color=0e75b6" alt="Azure" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=0e75b6" alt="Docker" width="40" height="40"/>
   </p>
 </div>
