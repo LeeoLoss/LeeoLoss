@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://profile-counter.glitch.me/LeeoLoss/count.svg" alt="Visualizações" />
+</div>
+
+<div align="center">
   <h1><code>string nome = "Leonardo Loss";</code></h1>
 </div>
 
@@ -18,9 +22,9 @@
 <hr />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <hr />
