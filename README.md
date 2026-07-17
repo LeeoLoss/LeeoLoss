@@ -13,20 +13,20 @@
 ---
 
 <div align="center">
-  <h3>Back-end Developer & Software Engineer .NET | Cloud Infrastructure</h3>
+  <h3>Back-end Developer & Software Engineer .NET</h3>
   <p>I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the <b>Microsoft ecosystem (.NET 10)</b>, with a strong background in SQL and Cloud environments.</p>
 </div>
 
 ---
 
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/-C%23-0e75b6?style=flat-square&logo=c-sharp&logoColor=white" height="35" alt="C#" />
-    <img src="https://img.shields.io/badge/-SQL_Server-0e75b6?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="35" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/-Java-0e75b6?style=flat-square&logo=openjdk&logoColor=white" height="35" alt="Java" />
-    <img src="https://img.shields.io/badge/-AWS-0e75b6?style=flat-square&logo=amazon-aws&logoColor=white" height="35" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Azure-0e75b6?style=flat-square&logo=microsoft-azure&logoColor=white" height="35" alt="Azure" />
-    <img src="https://img.shields.io/badge/-Docker-0e75b6?style=flat-square&logo=docker&logoColor=white" height="35" alt="Docker" />
+  <p>
+    <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=0e75b6" alt="C#" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=0e75b6" alt="SQL Server" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=0e75b6" alt="Java" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=0e75b6" alt="AWS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=VLK0skbHwZbc&format=png&color=0e75b6" alt="Azure" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=0e75b6" alt="Docker" width="40" height="40"/>
   </p>
 </div>
 
