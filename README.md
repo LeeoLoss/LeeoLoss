@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeeoLoss&color=purple&style=flat-square" alt="Visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=LeeoLoss&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações" />
 </div>
 
 <div align="center">
   <h1><code>string nome = "Leonardo Loss";</code></h1>
+</div>
+
+<hr />
+
+<div align="center">
+  <h3>Back-end Developer & Software Engineer .NET</h3>
+  <p>I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the <b>Microsoft ecosystem (.NET 10)</b>, with a strong background in SQL and Cloud environments.</p>
 </div>
 
 <hr />
@@ -22,19 +29,13 @@
 <hr />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-tau-liard.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeoLoss&theme=dark" alt="Leonardo's Streak Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-tau-liard.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeoLoss&theme=dark" alt="Most Used Languages" />
 </div>
 
 <hr />
 
 <div align="center">
   <a href="https://linkedin.com/in/leonardoloss" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-B09F95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-B09F95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/LINKEDIN-B09F95?style=for
