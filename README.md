@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2><code>public record Developer(string Name, string Role) => new("Leonardo Loss", "Software Engineer");</code></h2>
+  <h2><code>$ leeoloss --status "building scalable systems" --env "production"</code></h2>
 </div>
 
 <hr />
