@@ -1,43 +1,48 @@
 ![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
 
-# Hi there, I'm Leonardo Loss! 👋
+<div align="center">
+  <h1><code>string nome = "Leonardo Loss";</code></h1>
+</div>
 
-### Back-end Developer & Software Engineer .NET | Cloud Infrastructure
+<hr />
 
-I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the **Microsoft ecosystem (.NET 10)**, with a strong background in SQL and Cloud environments.
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
----
+<hr />
 
-### 🚀 Featured Back-end Projects
-- 💳 **[Finance Manager API](https://github.com/LeeoLoss/finance-manager-dotnet)**: High-performance API built with **.NET 10**, Entity Framework, Identity (JWT), and Azure/AWS integration.
-- ✅ **[Task Manager](https://github.com/LeeoLoss/task-manager-dotnet)**: Task management system focusing on Clean Architecture, RESTful patterns, and Java/Spring Boot practices.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Leonardo's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/dotnet-%23512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+<hr />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 Language Ranking
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Activity & Profile
-Acompanhe minhas contribuições e projetos ativos diretamente no meu repositório.
+<div align="center">
+  <a href="https://linkedin.com/in/leonardoloss" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-B09F95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-B09F95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 [![](https://img.shields.io/badge/Check%20my%20Repos-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/LeeoLoss?tab=repositories)
 
