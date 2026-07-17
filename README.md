@@ -1,5 +1,3 @@
-![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
-
 <div align="center">
   <h1><code>string nome = "Leonardo Loss";</code></h1>
 </div>
@@ -20,16 +18,9 @@
 <hr />
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Leonardo's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeeoLoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <hr />
@@ -43,11 +34,3 @@
     <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-B09F95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-[![](https://img.shields.io/badge/Check%20my%20Repos-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/LeeoLoss?tab=repositories)
-
----
-
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoloss/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardolossdasilva@gmail.com)
