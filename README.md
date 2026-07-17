@@ -32,6 +32,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Leonardo's GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeeoLoss&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
 </div>
 
 ---
