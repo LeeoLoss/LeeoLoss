@@ -3,9 +3,14 @@
 </div>
 
 <div align="center">
-  <kbd>🧑‍💻 LEONARDO LOSS • BACK-END DEVELOPER</kbd>
-  <br /><br />
-  <p>Specialized in high-performance cloud environments and robust server applications using .NET.</p>
+  <h1>Hi there, I'm Leonardo Loss! 👋</h1>
+</div>
+
+<hr />
+
+<div align="center">
+  <h3>Back-end Developer & Software Engineer .NET | Cloud Infrastructure</h3>
+  <p>I am a Back-end Engineer focused on building robust, scalable, and secure server-side applications. My core expertise lies in the <b>Microsoft ecosystem (.NET 10)</b>, with a strong background in SQL and Cloud environments.</p>
 </div>
 
 <hr />
@@ -23,9 +28,7 @@
 <hr />
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeoLoss&theme=dark" alt="Leonardo's Streak Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeoLoss&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeeoLoss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Leonardo's GitHub Stats" />
 </div>
 
 <hr />
